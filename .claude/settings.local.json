@@ -11,7 +11,9 @@
       "Bash(git commit -m \"$\\(cat <<''EOF''\n初始化字幕翻译系统项目\n\n- 完整的 React + TypeScript 字幕翻译应用\n- 集成 shadcn/ui 组件库和 Tailwind CSS\n- 支持多语言翻译、AI 辅助、术语库管理\n- 包含项目管理、翻译工作台、系统设置等核心功能\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")",
       "Bash(git reset:*)",
       "Bash(gh:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git remote set-url:*)"
     ]
   }
 }
